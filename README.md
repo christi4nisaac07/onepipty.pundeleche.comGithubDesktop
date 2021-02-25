@@ -6,5 +6,3 @@
 new branch change
 
 development change
-
-Merge branch to pull request
